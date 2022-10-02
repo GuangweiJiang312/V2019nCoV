@@ -1,0 +1,1339 @@
+[
+    {
+        "name": "Angola",
+        "loc": [
+            17.87,
+            -11.20
+        ]
+    },
+    {
+        "name": "Afghanistan",
+        "loc": [
+            67.71,
+            33.94
+        ]
+    },
+    {
+        "name": "Albania",
+        "loc": [
+            20.17,
+            41.15
+        ]
+    },
+    {
+        "name": "Algeria",
+        "loc": [
+            1.66,
+            28.03
+        ]
+    },
+    {
+        "name": "Andorra",
+        "loc": [
+            1.52,
+            42.51
+        ]
+    },
+    {
+        "name": "Anguilla",
+        "loc": [
+            -63.07,
+            18.22
+        ]
+    },
+    {
+        "name": "Argentina",
+        "loc": [
+            -63.62,
+            -38.42
+        ]
+    },
+    {
+        "name": "Armenia",
+        "loc": [
+            45.04,
+            40.07
+        ]
+    },
+    {
+        "name": "Ascension",
+        "loc": [
+            -90.94,
+            30.20
+        ]
+    },
+    {
+        "name": "Australia",
+        "loc": [
+            133.78,
+            -25.27
+        ]
+    },
+    {
+        "name": "Austria",
+        "loc": [
+            14.55,
+            47.52
+        ]
+    },
+    {
+        "name": "Azerbaijan",
+        "loc": [
+            47.58,
+            40.14
+        ]
+    },
+    {
+        "name": "Bahamas",
+        "loc": [
+            -77.40,
+            25.03
+        ]
+    },
+    {
+        "name": "Bahrain",
+        "loc": [
+            50.56,
+            26.07
+        ]
+    },
+    {
+        "name": "Bangladesh",
+        "loc": [
+            90.36,
+            23.68
+        ]
+    },
+    {
+        "name": "Barbados",
+        "loc": [
+            -59.54,
+            13.19
+        ]
+    },
+    {
+        "name": "Belarus",
+        "loc": [
+            27.95,
+            53.71
+        ]
+    },
+    {
+        "name": "Belgium",
+        "loc": [
+            4.47,
+            50.50
+        ]
+    },
+    {
+        "name": "Belize",
+        "loc": [
+            -88.50,
+            17.19
+        ]
+    },
+    {
+        "name": "Benin",
+        "loc": [
+            2.32,
+            9.31
+        ]
+    },
+    {
+        "name": "Bermuda Is",
+        "loc": [
+            -64.75,
+            32.31
+        ]
+    },
+    {
+        "name": "Bolivia",
+        "loc": [
+            -63.59,
+            -16.29
+        ]
+    },
+    {
+        "name": "Botswana",
+        "loc": [
+            24.68,
+            -22.33
+        ]
+    },
+    {
+        "name": "Brazil",
+        "loc": [
+            -51.93,
+            -14.24
+        ]
+    },
+    {
+        "name": "Brunei",
+        "loc": [
+            114.73,
+            4.54
+        ]
+    },
+    {
+        "name": "Bulgaria",
+        "loc": [
+            25.49,
+            42.73
+        ]
+    },
+    {
+        "name": "Burkina-faso",
+        "loc": [
+            -1.56,
+            12.24
+        ]
+    },
+    {
+        "name": "Burma",
+        "loc": [
+            95.96,
+            21.92
+        ]
+    },
+    {
+        "name": "Burundi",
+        "loc": [
+            29.92,
+            -3.37
+        ]
+    },
+    {
+        "name": "Cameroon",
+        "loc": [
+            12.35,
+            7.37
+        ]
+    },
+    {
+        "name": "Canada",
+        "loc": [
+            -106.35,
+            56.13
+        ]
+    },
+    {
+        "name": "Cayman Is",
+        "loc": [
+            -117.64,
+            33.64
+        ]
+    },
+    {
+        "name": "Central African Republic",
+        "loc": [
+            20.94,
+            6.61
+        ]
+    },
+    {
+        "name": "Chad",
+        "loc": [
+            18.73,
+            15.45
+        ]
+    },
+    {
+        "name": "Chile",
+        "loc": [
+            -71.54,
+            -35.68
+        ]
+    },
+    {
+        "name": "China",
+        "loc": [
+            104.20,
+            35.86
+        ]
+    },
+    {
+        "name": "Colombia",
+        "loc": [
+            -74.30,
+            4.57
+        ]
+    },
+    {
+        "name": "Congo",
+        "loc": [
+            15.83,
+            -0.23
+        ]
+    },
+    {
+        "name": "Cook Is",
+        "loc": [
+            -90.49,
+            47.61
+        ]
+    },
+    {
+        "name": "Costa Rica",
+        "loc": [
+            -83.75,
+            9.75
+        ]
+    },
+    {
+        "name": "Croatia",
+        "loc": [
+            15.2,
+            45.1
+        ]
+    },
+    {
+        "name": "Cuba",
+        "loc": [
+            -77.78,
+            21.52
+        ]
+    },
+    {
+        "name": "Cyprus",
+        "loc": [
+            33.43,
+            35.13
+        ]
+    },
+    {
+        "name": "Czech Republic",
+        "loc": [
+            15.47,
+            49.82
+        ]
+    },
+    {
+        "name": "Denmark",
+        "loc": [
+            9.50,
+            56.26
+        ]
+    },
+    {
+        "name": "Djibouti",
+        "loc": [
+            42.59,
+            11.83
+        ]
+    },
+    {
+        "name": "Dominica Rep",
+        "loc": [
+            -0.19,
+            51.52
+        ]
+    },
+    {
+        "name": "Ecuador",
+        "loc": [
+            -78.18,
+            -1.83
+        ]
+    },
+    {
+        "name": "Egypt",
+        "loc": [
+            30.80,
+            26.82
+        ]
+    },
+    {
+        "name": "EI Salvador",
+        "loc": [
+            -88.90,
+            13.79
+        ]
+    },
+    {
+        "name": "Estonia",
+        "loc": [
+            25.01,
+            58.60
+        ]
+    },
+    {
+        "name": "Ethiopia",
+        "loc": [
+            40.49,
+            9.15
+        ]
+    },
+    {
+        "name": "Fiji",
+        "loc": [
+            178.07,
+            -17.71
+        ]
+    },
+    {
+        "name": "Finland",
+        "loc": [
+            25.75,
+            61.92
+        ]
+    },
+    {
+        "name": "France",
+        "loc": [
+            2.21,
+            46.23
+        ]
+    },
+    {
+        "name": "French Guiana",
+        "loc": [
+            -53.13,
+            3.93
+        ]
+    },
+    {
+        "name": "Gabon",
+        "loc": [
+            11.61,
+            -0.80
+        ]
+    },
+    {
+        "name": "Gambia",
+        "loc": [
+            -15.31,
+            13.44
+        ]
+    },
+    {
+        "name": "Georgia",
+        "loc": [
+            -82.90,
+            32.17
+        ]
+    },
+    {
+        "name": "Germany",
+        "loc": [
+            10.45,
+            51.17
+        ]
+    },
+    {
+        "name": "Ghana",
+        "loc": [
+            -1.02,
+            7.95
+        ]
+    },
+    {
+        "name": "Gibraltar",
+        "loc": [
+            -5.35,
+            36.14
+        ]
+    },
+    {
+        "name": "Greece",
+        "loc": [
+            21.82,
+            39.07
+        ]
+    },
+    {
+        "name": "Grenada",
+        "loc": [
+            -61.68,
+            12.12
+        ]
+    },
+    {
+        "name": "Guam",
+        "loc": [
+            144.79,
+            13.44
+        ]
+    },
+    {
+        "name": "Guatemala",
+        "loc": [
+            -90.23,
+            15.78
+        ]
+    },
+    {
+        "name": "Guinea",
+        "loc": [
+            -9.70,
+            9.95
+        ]
+    },
+    {
+        "name": "Guyana",
+        "loc": [
+            -58.93,
+            4.86
+        ]
+    },
+    {
+        "name": "Haiti",
+        "loc": [
+            -72.29,
+            18.97
+        ]
+    },
+    {
+        "name": "Honduras",
+        "loc": [
+            -86.24,
+            15.20
+        ]
+    },
+    {
+        "name": "Hong Kong",
+        "loc": [
+            114.11,
+            22.40
+        ]
+    },
+    {
+        "name": "Hungary",
+        "loc": [
+            19.50,
+            47.16
+        ]
+    },
+    {
+        "name": "Iceland",
+        "loc": [
+            -19.02,
+            64.96
+        ]
+    },
+    {
+        "name": "India",
+        "loc": [
+            78.96,
+            20.59
+        ]
+    },
+    {
+        "name": "Indonesia",
+        "loc": [
+            113.92,
+            -0.79
+        ]
+    },
+    {
+        "name": "Iran",
+        "loc": [
+            53.69,
+            32.43
+        ]
+    },
+    {
+        "name": "Iraq",
+        "loc": [
+            43.68,
+            33.22
+        ]
+    },
+    {
+        "name": "Ireland",
+        "loc": [
+            -8.24,
+            53.41
+        ]
+    },
+    {
+        "name": "Israel",
+        "loc": [
+            34.85,
+            31.05
+        ]
+    },
+    {
+        "name": "Italy",
+        "loc": [
+            12.57,
+            41.87
+        ]
+    },
+    {
+        "name": "Ivory Coast",
+        "loc": [
+            -5.55,
+            7.54
+        ]
+    },
+    {
+        "name": "Jamaica",
+        "loc": [
+            -77.30,
+            18.11
+        ]
+    },
+    {
+        "name": "Japan",
+        "loc": [
+            138.25,
+            36.20
+        ]
+    },
+    {
+        "name": "Jordan",
+        "loc": [
+            36.24,
+            30.59
+        ]
+    },
+    {
+        "name": "Kampuchea",
+        "loc": [
+            105.46,
+            12.00
+        ]
+    },
+    {
+        "name": "Kazakstan",
+        "loc": [
+            66.92,
+            48.02
+        ]
+    },
+    {
+        "name": "Kenya",
+        "loc": [
+            37.91,
+            -0.02
+        ]
+    },
+    {
+        "name": "Korea",
+        "loc": [
+            127.98,
+            37.66
+        ]
+    },
+    {
+        "name": "Kuwait",
+        "loc": [
+            47.48,
+            29.31
+        ]
+    },
+    {
+        "name": "Kyrgyzstan",
+        "loc": [
+            74.77,
+            41.20
+        ]
+    },
+    {
+        "name": "Laos",
+        "loc": [
+            102.50,
+            19.86
+        ]
+    },
+    {
+        "name": "Latvia",
+        "loc": [
+            24.60,
+            56.88
+        ]
+    },
+    {
+        "name": "Lebanon",
+        "loc": [
+            35.86,
+            33.85
+        ]
+    },
+    {
+        "name": "Lesotho",
+        "loc": [
+            28.23,
+            -29.61
+        ]
+    },
+    {
+        "name": "Liberia",
+        "loc": [
+            -9.43,
+            6.43
+        ]
+    },
+    {
+        "name": "Libya",
+        "loc": [
+            17.23,
+            26.34
+        ]
+    },
+    {
+        "name": "Liechtenstein",
+        "loc": [
+            9.56,
+            47.17
+        ]
+    },
+    {
+        "name": "Lithuania",
+        "loc": [
+            23.88,
+            55.17
+        ]
+    },
+    {
+        "name": "Luxembourg",
+        "loc": [
+            6.13,
+            49.82
+        ]
+    },
+    {
+        "name": "Macao",
+        "loc": [
+            113.54,
+            22.20
+        ]
+    },
+    {
+        "name": "Madagascar",
+        "loc": [
+            46.87,
+            -18.77
+        ]
+    },
+    {
+        "name": "Malawi",
+        "loc": [
+            34.30,
+            -13.25
+        ]
+    },
+    {
+        "name": "Malaysia",
+        "loc": [
+            101.98,
+            4.21
+        ]
+    },
+    {
+        "name": "Maldives",
+        "loc": [
+            73.54,
+            1.98
+        ]
+    },
+    {
+        "name": "Mali",
+        "loc": [
+            -4.00,
+            17.57
+        ]
+    },
+    {
+        "name": "Malta",
+        "loc": [
+            14.38,
+            35.94
+        ]
+    },
+    {
+        "name": "Mariana Is",
+        "loc": [
+            -43.41,
+            -20.37
+        ]
+    },
+    {
+        "name": "Martinique",
+        "loc": [
+            -61.02,
+            14.64
+        ]
+    },
+    {
+        "name": "Mauritius",
+        "loc": [
+            57.55,
+            -20.35
+        ]
+    },
+    {
+        "name": "Mexico",
+        "loc": [
+            -102.55,
+            23.63
+        ]
+    },
+    {
+        "name": "Monaco",
+        "loc": [
+            7.42,
+            43.74
+        ]
+    },
+    {
+        "name": "Mongolia",
+        "loc": [
+            103.85,
+            46.86
+        ]
+    },
+    {
+        "name": "Montserrat Is",
+        "loc": [
+            -62.19,
+            16.74
+        ]
+    },
+    {
+        "name": "Morocco",
+        "loc": [
+            -7.09,
+            31.79
+        ]
+    },
+    {
+        "name": "Mozambique",
+        "loc": [
+            35.53,
+            -18.67
+        ]
+    },
+    {
+        "name": "Namibia",
+        "loc": [
+            18.49,
+            -22.96
+        ]
+    },
+    {
+        "name": "Nauru",
+        "loc": [
+            166.93,
+            -0.52
+        ]
+    },
+    {
+        "name": "Nepal",
+        "loc": [
+            84.12,
+            28.39
+        ]
+    },
+    {
+        "name": "Netheriands Antilles",
+        "loc": [
+            -68.26,
+            12.20
+        ]
+    },
+    {
+        "name": "Netherlands",
+        "loc": [
+            5.29,
+            52.13
+        ]
+    },
+    {
+        "name": "New Zealand",
+        "loc": [
+            174.89,
+            -40.90
+        ]
+    },
+    {
+        "name": "Nicaragua",
+        "loc": [
+            -85.21,
+            12.87
+        ]
+    },
+    {
+        "name": "Niger",
+        "loc": [
+            8.08,
+            17.61
+        ]
+    },
+    {
+        "name": "Nigeria",
+        "loc": [
+            8.68,
+            9.08
+        ]
+    },
+    {
+        "name": "North Korea",
+        "loc": [
+            127.51,
+            40.34
+        ]
+    },
+    {
+        "name": "Norway",
+        "loc": [
+            8.47,
+            60.47
+        ]
+    },
+    {
+        "name": "Oman",
+        "loc": [
+            55.98,
+            21.47
+        ]
+    },
+    {
+        "name": "Pakistan",
+        "loc": [
+            69.35,
+            30.38
+        ]
+    },
+    {
+        "name": "Panama",
+        "loc": [
+            -80.78,
+            8.54
+        ]
+    },
+    {
+        "name": "Papua New Cuinea",
+        "loc": [
+            143.96,
+            -6.31
+        ]
+    },
+    {
+        "name": "Paraguay",
+        "loc": [
+            -58.44,
+            -23.44
+        ]
+    },
+    {
+        "name": "Peru",
+        "loc": [
+            -75.02,
+            -9.19
+        ]
+    },
+    {
+        "name": "Philippines",
+        "loc": [
+            121.77,
+            12.88
+        ]
+    },
+    {
+        "name": "Poland",
+        "loc": [
+            19.15,
+            51.92
+        ]
+    },
+    {
+        "name": "French Polynesia",
+        "loc": [
+            -149.41,
+            -17.68
+        ]
+    },
+    {
+        "name": "Portugal",
+        "loc": [
+            -8.22,
+            39.40
+        ]
+    },
+    {
+        "name": "Puerto Rico",
+        "loc": [
+            -66.59,
+            18.22
+        ]
+    },
+    {
+        "name": "Qatar",
+        "loc": [
+            51.18,
+            25.35
+        ]
+    },
+    {
+        "name": "Reunion",
+        "loc": [
+            55.54,
+            -21.12
+        ]
+    },
+    {
+        "name": "Romania",
+        "loc": [
+            24.97,
+            45.94
+        ]
+    },
+    {
+        "name": "Russia",
+        "loc": [
+            105.32,
+            61.52
+        ]
+    },
+    {
+        "name": "Saint Lueia",
+        "loc": [
+            -60.98,
+            13.91
+        ]
+    },
+    {
+        "name": "Saint Vincent",
+        "loc": [
+            7.64,
+            45.75
+        ]
+    },
+    {
+        "name": "Samoa Eastern",
+        "loc": [
+            -121.83,
+            37.35
+        ]
+    },
+    {
+        "name": "Samoa Western",
+        "loc": [
+            -124.15,
+            40.80
+        ]
+    },
+    {
+        "name": "San Marino",
+        "loc": [
+            12.46,
+            43.94
+        ]
+    },
+    {
+        "name": "Sao Tome and Principe",
+        "loc": [
+            6.61,
+            0.19
+        ]
+    },
+    {
+        "name": "Saudi Arabia",
+        "loc": [
+            45.08,
+            23.89
+        ]
+    },
+    {
+        "name": "Senegal",
+        "loc": [
+            -14.45,
+            14.50
+        ]
+    },
+    {
+        "name": "Seychelles",
+        "loc": [
+            55.49,
+            -4.68
+        ]
+    },
+    {
+        "name": "Sierra Leone",
+        "loc": [
+            -11.78,
+            8.46
+        ]
+    },
+    {
+        "name": "Singapore",
+        "loc": [
+            103.82,
+            1.35
+        ]
+    },
+    {
+        "name": "Slovakia",
+        "loc": [
+            19.70,
+            48.67
+        ]
+    },
+    {
+        "name": "Slovenia",
+        "loc": [
+            15.00,
+            46.15
+        ]
+    },
+    {
+        "name": "Solomon Is",
+        "loc": [
+            -97.37,
+            38.92
+        ]
+    },
+    {
+        "name": "Somali",
+        "loc": [
+            46.20,
+            5.15
+        ]
+    },
+    {
+        "name": "South Africa",
+        "loc": [
+            22.94,
+            -30.56
+        ]
+    },
+    {
+        "name": "Spain",
+        "loc": [
+            -3.75,
+            40.46
+        ]
+    },
+    {
+        "name": "Sri Lanka",
+        "loc": [
+            80.77,
+            7.87
+        ]
+    },
+    {
+        "name": "St.Lucia",
+        "loc": [
+            -60.98,
+            13.91
+        ]
+    },
+    {
+        "name": "St.Vincent",
+        "loc": [
+            -91.06,
+            29.99
+        ]
+    },
+    {
+        "name": "Sudan",
+        "loc": [
+            30.22,
+            12.86
+        ]
+    },
+    {
+        "name": "Suriname",
+        "loc": [
+            -56.03,
+            3.92
+        ]
+    },
+    {
+        "name": "Swaziland",
+        "loc": [
+            31.47,
+            -26.52
+        ]
+    },
+    {
+        "name": "Sweden",
+        "loc": [
+            18.64,
+            60.13
+        ]
+    },
+    {
+        "name": "Switzerland",
+        "loc": [
+            8.23,
+            46.82
+        ]
+    },
+    {
+        "name": "Syria",
+        "loc": [
+            39.00,
+            34.80
+        ]
+    },
+    {
+        "name": "Taiwan",
+        "loc": [
+            120.96,
+            23.70
+        ]
+    },
+    {
+        "name": "Tajikstan",
+        "loc": [
+            71.28,
+            38.86
+        ]
+    },
+    {
+        "name": "Tanzania",
+        "loc": [
+            34.89,
+            -6.37
+        ]
+    },
+    {
+        "name": "Thailand",
+        "loc": [
+            100.99,
+            15.87
+        ]
+    },
+    {
+        "name": "Togo",
+        "loc": [
+            0.82,
+            8.62
+        ]
+    },
+    {
+        "name": "Tonga",
+        "loc": [
+            -175.20,
+            -21.18
+        ]
+    },
+    {
+        "name": "Trinidad and Tobago",
+        "loc": [
+            -61.22,
+            10.69
+        ]
+    },
+    {
+        "name": "Tunisia",
+        "loc": [
+            9.54,
+            33.89
+        ]
+    },
+    {
+        "name": "Turkey",
+        "loc": [
+            35.24,
+            38.96
+        ]
+    },
+    {
+        "name": "Turkmenistan",
+        "loc": [
+            59.56,
+            38.97
+        ]
+    },
+    {
+        "name": "Uganda",
+        "loc": [
+            32.29,
+            1.37
+        ]
+    },
+    {
+        "name": "Ukraine",
+        "loc": [
+            31.17,
+            48.38
+        ]
+    },
+    {
+        "name": "United Arab Emirates",
+        "loc": [
+            53.85,
+            23.42
+        ]
+    },
+    {
+        "name": "United Kingdom",
+        "loc": [
+            -3.44,
+            55.38
+        ]
+    },
+    {
+        "name": "United States",
+        "loc": [
+            -95.71,
+            37.09
+        ]
+    },
+    {
+        "name": "Uruguay",
+        "loc": [
+            -55.77,
+            -32.52
+        ]
+    },
+    {
+        "name": "Uzbekistan",
+        "loc": [
+            64.59,
+            41.38
+        ]
+    },
+    {
+        "name": "Venezuela",
+        "loc": [
+            -66.59,
+            6.42
+        ]
+    },
+    {
+        "name": "Vietnam",
+        "loc": [
+            108.28,
+            14.06
+        ]
+    },
+    {
+        "name": "Yemen",
+        "loc": [
+            48.52,
+            15.55
+        ]
+    },
+    {
+        "name": "Yugoslavia",
+        "loc": [
+            121.02,
+            14.48
+        ]
+    },
+    {
+        "name": "Zimbabwe",
+        "loc": [
+            29.15,
+            -19.02
+        ]
+    },
+    {
+        "name": "Zaire",
+        "loc": [
+            21.76,
+            -4.04
+        ]
+    },
+    {
+        "name": "Zambia",
+        "loc": [
+            27.85,
+            -13.13
+        ]
+    }
+]

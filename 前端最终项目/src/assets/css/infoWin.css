@@ -1,0 +1,30 @@
+.info {
+    background: #363F49;
+    color: #A0A7B4;
+    padding: 10px;
+    max-width: 300px;
+    min-width: 200px;
+    font-size: 12px;
+    opacity: 0.8;
+}
+
+.info tr .content {
+    text-align: right;
+    color: #D3D8E0;
+    max-width: 200px;
+    opacity: 0.8;
+    text-align:left;
+}
+
+.amap-marker-label {
+    border:none;
+    background-color: rgba(0,0,0,0);
+}
+
+.span-info {
+    white-space: nowrap;
+    display: inline-block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 200px;
+}
